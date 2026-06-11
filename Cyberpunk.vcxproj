@@ -142,6 +142,9 @@
     <ClCompile Include="Cyberpunk.cpp" />
     <ClCompile Include="generator.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="database.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
